@@ -1,0 +1,8 @@
+{    
+    "swapchain":{
+        "width":800,
+        "height":600,
+        "buffercount": 2
+    }
+    
+}

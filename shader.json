@@ -1,0 +1,15 @@
+{
+    "source":"xxx.fx",
+    "programs":[
+        {
+            "name":"name1",
+            "type":"VS",
+            "entry":"entry1"
+        },
+        {
+            "name":"name2",
+            "type":"PS",
+            "entry":"entry2"
+        }
+    ]
+}
